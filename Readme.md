@@ -1,7 +1,7 @@
 ## Movie Rating
 
 ### Grammar of Graphic
-![image](https://user-images.githubusercontent.com/37673834/170208120-52430729-dde8-42b6-a84b-318e9df934f2.png)
+![image](https://user-images.githubusercontent.com/37673834/170209628-c9c97d9a-cf17-4eb0-b7a7-9ded9d44099d.png)
 
 ### Visualization
 ![image](https://user-images.githubusercontent.com/37673834/170206297-e6ef9d30-bbcf-4062-8b9a-87fb8dd70d89.png)
